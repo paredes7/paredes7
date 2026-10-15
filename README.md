@@ -22,32 +22,60 @@
 ### 🚀 Sobre mí
 
 - 🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)** — Cochabamba, Bolivia.
-- 💻 **Desarrollador Full Stack** enfocado en crear aplicaciones web funcionales, intuitivas y con un diseño moderno.
-- ⚙️ Experiencia en el desarrollo de **APIs RESTful** robustas en el backend y aplicaciones dinámicas en el frontend.
-- 🎨 Apasionado por escribir **código limpio**, estructurar arquitecturas escalables y brindar una excelente experiencia de usuario (UX/UI).
-- 📚 En constante aprendizaje de nuevas tecnologías del ecosistema JavaScript, TypeScript y PHP.
+- 💻 **Desarrollador Full Stack** con experiencia creando aplicaciones web funcionales, intuitivas y colaborativas.
+- 👥 Experiencia trabajando en equipo bajo metodologías ágiles, colaborando en el diseño de arquitectura y desarrollo modular.
+- ⚙️ Enfoque en el desarrollo de **APIs RESTful** robustas y frontend dinámico con **React & Next.js**.
+- 🎨 Apasionado por escribir **código limpio**, estructurar bases de datos eficientes y brindar una excelente experiencia de usuario (UX/UI).
+
+---
+
+### 📌 Proyectos Destacados en Equipo
+
+<div align="center">
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :---: |
+| 🌿 **Sanamente** | Aplicación orientada a la salud, bienestar y gestión integral de hábitos y seguimiento. | `React Native` `JavaScript` `Mobile` | [Ver Proyecto](https://github.com/paredes7/sanamente_apk) |
+| 🚓 **Módulo Policial (Control Vehicular)** | Plataforma integral para registro, monitoreo y control vehicular desarrollada para apoyo policial. | `NestJS` `React Native` `TypeScript` `PostgreSQL` | [Backend](https://github.com/paredes7/Control_vehicular_Backend_app) • [Frontend](https://github.com/paredes7/Control_vehicular_Frontend_app) |
+| 💼 **Showly (Gestión de Portafolios)** | Sistema colaborativo para la creación, administración y publicación interactiva de portafolios académicos y profesionales. | `Laravel` `Next.js` `React` `MySQL` | [Ver Proyecto](https://github.com/paredes7/Showly) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Tarjetas interactivas de repositorios -->
+  <a href="https://github.com/paredes7/sanamente_apk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paredes7&repo=sanamente_apk&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/paredes7/Control_vehicular_Backend_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paredes7&repo=Control_vehicular_Backend_app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/paredes7/Showly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paredes7&repo=Showly&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-#### 🎨 Frontend & UI
+#### 🎨 Frontend & Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
@@ -69,11 +97,17 @@
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Métricas y Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paredes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paredes7&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paredes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paredes7&layout=compact&theme=tokyonight&hide_border=true&hide=blade,css,dockerfile" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paredes7&theme=tokyonight&hide_border=true" width="94%" />
 </div>
 
 ---
