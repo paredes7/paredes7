@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner con efecto de máquina de escribir animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%C2%A1Hola%2C+soy+Jhoel+Paredes!+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+UMSS;Desarrollador+de+Software;Enfocado+en+Ciberseguridad%2C+DevSecOps+y+Redes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Jhoel+Paredes+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+UMSS;Full+Stack+Software+Developer;Laravel+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Construyendo+soluciones+web+modernas" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/jhoel-paredes" target="_blank">
@@ -19,46 +19,52 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 🚀 Sobre mí
 
 - 🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)** — Cochabamba, Bolivia.
-- 💻 **Desarrollador de Software** con experiencia construyendo aplicaciones web con **Laravel**, **React / Next.js** y **Node.js**.
-- 🛡️ Con un fuerte interés y aprendizaje constante en **Ciberseguridad** y prácticas **DevSecOps**, integrando análisis de vulnerabilidades (**SAST / DAST con SonarQube**) y pruebas de carga (**k6**).
-- 🌐 Formación en infraestructura de redes con cursos certificados **Cisco CCNA (1 y 2)**.
-- 🚀 Comprometido con escribir código limpio, seguro y en constante mejora continua.
+- 💻 **Desarrollador Full Stack** enfocado en crear aplicaciones web funcionales, intuitivas y con un diseño moderno.
+- ⚙️ Experiencia en el desarrollo de **APIs RESTful** robustas en el backend y aplicaciones dinámicas en el frontend.
+- 🎨 Apasionado por escribir **código limpio**, estructurar arquitecturas escalables y brindar una excelente experiencia de usuario (UX/UI).
+- 📚 En constante aprendizaje de nuevas tecnologías del ecosistema JavaScript, TypeScript y PHP.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-#### 💻 Lenguajes y Desarrollo Web
+#### 🎨 Frontend & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🔒 Seguridad, DevOps y Redes
+#### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-Performance-purple?style=flat-square&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-#### ⚙️ Control de Versiones y Entorno
+#### 🗄️ Bases de Datos
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🧰 Herramientas de Desarrollo
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -73,5 +79,9 @@
 ---
 
 <div align="center">
-  <i>💡 "Aprendiendo cada día para construir soluciones tecnológicas seguras y eficientes."</i>
+  <h3>🤝 ¿Conectamos?</h3>
+  <p>Siempre abierto a colaborar en nuevos proyectos y compartir ideas sobre desarrollo de software.</p>
+  <a href="https://linkedin.com/in/jhoel-paredes" target="_blank">
+    <img src="https://img.shields.io/badge/Encuéntrame_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
